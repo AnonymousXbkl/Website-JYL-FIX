@@ -193,6 +193,22 @@
     color: #999999;
 }
 
+/* About */
+.img-about-us-1 {
+    background-image: url(../img/content/IMG_2103.jpg);
+    background-size: cover;
+}
+
+.img-about-us-2 {
+    background-image: url(../img/content/IMG_2055.jpg);
+    background-size: cover;
+    background-position: center;
+    border: 5px solid white;
+}
+
+
+/* About End */
+
 
 /*** Causes ***/
 .causes-item .progress {
